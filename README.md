@@ -1,23 +1,26 @@
-# Welcome to my GitHub Profile! 👋
+# Welcome to My GitHub Profile! 👋
 
 ## About Me
-- Hey, I'm @daveonHMD!
-- I'm passionate about developing Discord bots, websites, and Roblox games.
-- I'm constantly learning and exploring new technologies to enhance my skills.
+
+- Hey, I'm @daveonHMD, an upcoming developer from America, 16 years of age.
+- My mission is to learn about web development, cloud development, and AI.
+- I'm working on creating my own platform while pursuing a career in acting and technology.
 
 ## Areas of Interest
-- Discord bot development
-- Website development
+
+- Web development
+- Cloud development
+- AI exploration
 - Roblox game development
 
 ## Collaboration
-- I'm open to collaborating on projects that align with my areas of expertise.
-- Feel free to reach out if you have any interesting projects in mind!
+
+- I'm open to collaborating on projects that align with my areas of interest.
+- Feel free to reach out if you have any exciting projects in mind!
 
 ## Contact Me
-- You can connect with me on Discord: [Join my Discord server](https://discord.gg/FZEy34Nwrc)
 
-## Discord Presence
-[![Discord Presence](https://lanyard.cnrad.dev/api/853916655893479455)](https://discord.com/users/853916655893479455)
+- You can reach me via email: [daveonhmd@gmail.com](mailto:daveonhmd@gmail.com)
 
 Looking forward to connecting with you! 😄
+
