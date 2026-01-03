@@ -2,7 +2,7 @@
 
 ## About Me
 
-- Hey, I'm @daveonHMD, an upcoming developer from America, 16 years of age.
+- Hey, I'm @daveonHMD, an upcoming developer from America, 17 years of age.
 - My mission is to learn about web development, cloud development, and AI.
 - I'm working on creating my own platform while pursuing a career in acting and technology.
 
